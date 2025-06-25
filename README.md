@@ -44,8 +44,8 @@ This starts the server at: `http://localhost:11434`
 ### 📁 3. Clone the Project
 
 ```bash
-git clone https://github.com/your-username/ollama-chatbot.git
-cd ollama-chatbot
+git clone https://github.com/RupaliVishwakarma/Ollama-Chatbot.git
+cd Ollama-Chatbot
 ```
 
 ---
